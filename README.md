@@ -1,4 +1,4 @@
-# weather-predection-
+# weather-prediction-
 While learning about data collection and its analysis, I was given this assignment of creating a weather dataset consisting of 10 conuntries for predecting the future value.
 While doing this assignment I performed and learned about the following :
 1. Data Scraping and its collection : After looking up at various websites, found some websites with reliable data for past 1-2 months. Coded up a scraper and then collected raw data.
